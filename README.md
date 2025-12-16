@@ -11,14 +11,7 @@ I enjoy learning how systems work and improving my skills through school project
 ## 🛠️ Skills
 - Basic Programming (PHP, HTML, CSS)
 - Database Basics (MySQL)
-- Simple System Development
-- Problem Solving
 - Willing to Learn
-
-## 💻 Tools I Use
-- Visual Studio Code  
-- XAMPP  
-- GitHub  
 
 ## 📫 Contact
 - GitHub: https://github.com/Alleiah18
