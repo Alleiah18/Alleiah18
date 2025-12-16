@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Alleiah Joe Bobias
 
-<!--
-**Alleiah18/Alleiah18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😊 Say Hi
+Hello! Welcome to my GitHub profile.  
+I am an **19-year-old IT student at the University of Abra** who is learning programming and system development.
 
-Here are some ideas to get you started:
+## 📖 About Me
+I am currently studying Information Technology and practicing basic coding skills.  
+I enjoy learning how systems work and improving my skills through school projects and simple applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Basic Programming (PHP, HTML, CSS)
+- Database Basics (MySQL)
+- Simple System Development
+- Problem Solving
+- Willing to Learn
+
+## 💻 Tools I Use
+- Visual Studio Code  
+- XAMPP  
+- GitHub  
+
+## 📫 Contact
+- GitHub: https://github.com/Alleiah18
+- Facebook: https://www.facebook.com/share/1CeqcWToag/
+- Email: bobiasalleiahjoe@gmail.com 
